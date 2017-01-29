@@ -19,3 +19,6 @@ project/plugins/project/
 # IntelliJ specific
 .idea/
 .idea_modules/
+
+# Scala js client
+server/src/main/webapp/assets/js/client-fastopt.*
