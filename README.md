@@ -8,13 +8,17 @@ giter8 template for web applications based on Scalatra and Scala.js
 You can create and run a project as following:
 
 ```
-$ sbt new takezoe/scalatra-scalajs.g8
-$ cd <name-of-app>
 $ sbt compileAll
-$ sbt ~server/jetty:start
+$ sbt start
 ```
 
-Then open http://localhost:8080/ in your browser.
+Generate some data
+
+```
+Get http://localhost:8080/new 
+```
+
+Visit http://localhost:8080/ .
 
 ## Components
 
