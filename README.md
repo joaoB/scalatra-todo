@@ -1,7 +1,7 @@
-scalatra-scalajs.g8
+Scalatra framework and Scala js todo mvc template
 =================
 
-giter8 template for web applications based on Scalatra and Scala.js
+Template for web applications based on Scalatra and Scala.js
 
 ## Usage
 
